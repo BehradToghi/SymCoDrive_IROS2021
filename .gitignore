@@ -1,0 +1,4 @@
+.idea
+*.mp4
+*.pyc
+scripts/rl_agents_scripts/out/
