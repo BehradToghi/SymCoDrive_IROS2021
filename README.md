@@ -8,3 +8,15 @@ To run:
 You can add as many configs or options you want in this file, just chosse different names, e.g., `options_1`, `options_2`, etc.
 
 This is a wrapper around the `experiment.py` file so we can easily run different options and configs for debugging purposes.
+
+This implementation is built on top of the OpenAI Gym environment provided by:
+```bibtex
+@misc{highway-env,
+  author = {Leurent, Edouard},
+  title = {An Environment for Autonomous Driving Decision-Making},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/eleurent/highway-env}},
+}
+```
