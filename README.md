@@ -1,6 +1,8 @@
-# SYMCODRIVE
+# SymCoDrive:
 ## Cooperative Autonomous Vehicles that Sympathize with Human Drivers
 ### Authors: Behrad Toghi, Rodolfo Valiente, Dorsa Sadigh, Ramtin Pedarsani, Yaser P. Fallah
+
+
 
 This work is submitted to IROS 2021, for more information please visit: https://symcodrive.toghi.net/
 
