@@ -1,5 +1,11 @@
-# coop_repo
-This is the Cooperative Driving repo by Rodolfo Valiente Romero & Behrad Toghi
+# SYMCODRIVE
+## Cooperative Autonomous Vehicles that Sympathize with Human Drivers
+###Behrad Toghi, Rodolfo Valiente, Dorsa Sadigh, Ramtin Pedarsani, Yaser P. Fallah
+
+This work is submitted to IROS 2021, for more information please visit: https://symcodrive.toghi.net/
+
+
+This repo is still under construction, we are going to upload detailed instructions and trained models soon.
 
 Temporary instructions:
 To run:
